@@ -1,2 +1,2 @@
 # C-Language-Programs
-This repo contains codes written C.
+<i>This repo contains codes written C.</i>
