@@ -10,7 +10,7 @@ int main()
    }
    for(i=0;i<m;i++)
    {
-       scanf("%d",&b[i]);
+     scanf("%d",&b[i]);
    }
    int c=m+n;
    int p[c];
